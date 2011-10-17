@@ -1,0 +1,8 @@
+## Interface: 40000
+
+## Title: |cffff8800y|rAutoGreed
+## Note: Bypass things that you don't need to care
+## Author: yleaf
+## Version: 1.1
+
+yAutoGreed.lua
